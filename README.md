@@ -35,7 +35,7 @@ This results in poorly structured or incomplete resumes that reduce their chance
 
 ## 🖼 Demo
 
-🔗 [Live Demo](http://127.0.0.1:5500/cosmic_resume_builder.html) *(Replace with actual link)*
+🔗 [Live Demo](https://imperialx7.github.io/cosmic-resume-builder/) *(Replace with actual link)*
 
 ---
 
