@@ -52,5 +52,5 @@ This results in poorly structured or incomplete resumes that reduce their chance
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cosmic-resume-builder.git
+   git clone https://github.com/IMPERIALX7/cosmic-resume-builder.git
    cd cosmic-resume-builder
